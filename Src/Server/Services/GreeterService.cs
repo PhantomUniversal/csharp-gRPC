@@ -1,7 +1,7 @@
 using Grpc.Core;
 using Server;
 
-namespace Server.Services;
+namespace Phantom.Services;
 
 public class GreeterService : Greeter.GreeterBase
 {
